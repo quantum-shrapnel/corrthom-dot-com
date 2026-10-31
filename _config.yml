@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Quantum Shrapnel
+title: corrthom dot com
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Corrin Thompson
@@ -58,7 +58,7 @@ author:
   name   : "Corrin Thompson"
   avatar : "/assets/images/profile-photo.png"
   bio: >-
-    US-based programmer and security specialist
+    US-based software engineer who aspires to make the world a little better through tech, best-practices, and maybe a little whimsy
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

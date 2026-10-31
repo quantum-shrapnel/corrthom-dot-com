@@ -5,6 +5,13 @@ author_profile: true
 
 ### EXPERIENCE
 ---
+**Software Engineer | Menlo Innovations — 2026-Present**
+* Full Stack Developer creating custom software for clients across several disciplines.
+* Test-driven development
+* Incident response and root cause analysis
+* Optimize Postgres queries to enhance product performance 
+* Advocate for iterative improvement of company processes (both internal to Menlo and external to the client) so we can get to our desired state
+
 **Site Reliability Engineer | Duo Security — 2023-2024**
 * Maintained deployment environment for Duo products
 * Coordinated and rolled out company-wide infrastructure upgrades
