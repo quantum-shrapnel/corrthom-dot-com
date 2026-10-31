@@ -4,7 +4,7 @@ date: 2026-02-23
 categories:
   - blog
 tags:
-  - thoughts
+   - posting-thru-it
 ---
 
 LinkedIn gave me back my account! And I didn't have to give up my government ID! Huzzah! The support person I got ahold of was lovely and I appreciate them unblocking me (they didn't have to do that).
