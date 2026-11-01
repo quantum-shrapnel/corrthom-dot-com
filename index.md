@@ -31,6 +31,87 @@ author_profile: true
 * Feature development for ASIG’s internal ticketing tools with Ruby and React
 * Created and presented introduction to cyber security materials for outreach/recruiting programs
 
+##### LANGUAGES
+---
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Python</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Java</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Postgresql</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">React.js</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">TypeScript</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">JavaScript</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Shell Script(bash)</span>
+</span>
+
+##### SOFTWARE/TOOLS
+---
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Kubernetes</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">ArgoCD</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Docker</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">AWS</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">DataDog</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Selenium</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Grafana</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Mockito</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Salesforce</span>
+</span>
+
+##### SKILLS
+---
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Feature Development</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Restful APIs</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">CI/CD</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Web UI</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Test-Driven Development</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Incident Response</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Penetration Testing</span>
+</span>
+<span itemprop="keywords">
+<span class="page__taxonomy-item p-category" rel="tag">Custom Tooling/Scripting</span>
+</span>
+
 ### CERTIFICATIONS
 ---
 **Offensive Security Certified Professional — Feb, 2019**  
